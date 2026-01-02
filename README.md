@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/aditya2-code/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/aditya2-code/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aditya2-code/DSA/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/aditya2-code/DSA/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aditya2-code/DSA/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
