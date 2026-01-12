@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/aditya2-code/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aditya2-code/DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aditya2-code/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Tree
