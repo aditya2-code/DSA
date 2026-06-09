@@ -1,18 +1,18 @@
 class Solution {
     public double myPow(double x, int n) {
-        long binary = n;
+        double pow = 1;
         if(n<0){
-            x=1/x;
-            binary = -binary;
+            x = 1/x;
+            n = -n;
         }
-        double ans = 1;
-        while(binary>0){
-            if(binary %2==1){
-                ans*=x;
+
+        while(n != 0 ){
+            if ((n & 1) != 0){
+                pow *= x; 
             }
-            x*=x;
-            binary/=2;
+            x *= x;
+            n>>>=1;
         }
-        return ans;
+        return pow;
     }
 }
