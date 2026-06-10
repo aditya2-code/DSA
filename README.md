@@ -139,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya2-code/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/aditya2-code/DSA/tree/master/0021-merge-two-sorted-lists) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aditya2-code/DSA/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/aditya2-code/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/aditya2-code/DSA/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
