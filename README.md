@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya2-code/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/aditya2-code/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Math
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/aditya2-code/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aditya2-code/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aditya2-code/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/aditya2-code/DSA/tree/master/0069-sqrtx) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
