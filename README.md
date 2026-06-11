@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/aditya2-code/DSA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya2-code/DSA/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aditya2-code/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aditya2-code/DSA/tree/master/0056-merge-intervals) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aditya2-code/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aditya2-code/DSA/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditya2-code/DSA/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/aditya2-code/DSA/tree/master/0131-palindrome-partitioning) |
 ## Stack
