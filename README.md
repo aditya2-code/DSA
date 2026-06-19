@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aditya2-code/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/aditya2-code/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aditya2-code/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/aditya2-code/DSA/tree/master/0056-merge-intervals) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/aditya2-code/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/aditya2-code/DSA/tree/master/0131-palindrome-partitioning) |
 ## Stack
