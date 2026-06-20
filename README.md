@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya2-code/DSA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/aditya2-code/DSA/tree/master/0070-climbing-stairs) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
+| [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditya2-code/DSA/tree/master/0242-valid-anagram) |
+| [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
 ## Dynamic Programming
 |  |
 | ------- |
