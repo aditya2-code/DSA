@@ -7,7 +7,7 @@ class Solution {
                 max = c[i];
             }
         }
-        List<Boolean> res = new ArrayList<>();
+        List<Boolean> res = new ArrayList<>(c.length);
         for(int i = 0; i< n ; i++){
             if(c[i]+ec>=max){
                 res.add(true);
