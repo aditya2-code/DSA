@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/aditya2-code/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/aditya2-code/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya2-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya2-code/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
 ## Binary Search
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditya2-code/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aditya2-code/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya2-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aditya2-code/DSA/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/aditya2-code/DSA/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aditya2-code/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 ## Tree
