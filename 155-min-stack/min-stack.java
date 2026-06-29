@@ -1,36 +1,25 @@
 class MinStack {
-    private Stack<Integer> stack;
-    private Stack<Integer> minStack;
+    Deque<int[]> queue;
 
     public MinStack() {
-        stack = new Stack<>();
-        minStack = new Stack<>();
+        queue = new ArrayDeque<>();
     }
     
     public void push(int val) {
-        stack.push(val);
-        if (minStack.isEmpty()) {
-            minStack.push(val);
-        } else {
-            if (val <= minStack.peek()) {
-                minStack.push(val);
-            }
-        }
+        int min = queue.isEmpty() ? val : Math.min(queue.peek()[1], val);
+        queue.push(new int[] {val, min});
     }
     
     public void pop() {
-        if (stack.peek().equals(minStack.peek())) {
-            minStack.pop();
-        }
-        stack.pop();
+        queue.pop();
     }
     
     public int top() {
-        return stack.peek();
+        return queue.peek()[0];
     }
     
     public int getMin() {
-        return minStack.peek();
+        return queue.peek()[1];
     }
 }
 
