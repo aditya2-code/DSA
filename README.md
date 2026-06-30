@@ -158,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya2-code/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya2-code/DSA/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya2-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aditya2-code/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aditya2-code/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/aditya2-code/DSA/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya2-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aditya2-code/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aditya2-code/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Breadth-First Search
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya2-code/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya2-code/DSA/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya2-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/aditya2-code/DSA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/aditya2-code/DSA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Divide and Conquer
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya2-code/DSA/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aditya2-code/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya2-code/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aditya2-code/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aditya2-code/DSA/tree/master/0225-implement-stack-using-queues) |
