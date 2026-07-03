@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/aditya2-code/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aditya2-code/DSA/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aditya2-code/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/aditya2-code/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/aditya2-code/DSA/tree/master/0242-valid-anagram) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1207-unique-number-of-occurrences](https://github.com/aditya2-code/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya2-code/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/aditya2-code/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
