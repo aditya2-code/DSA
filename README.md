@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya2-code/DSA/tree/master/0739-daily-temperatures) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2-code/DSA/tree/master/1207-unique-number-of-occurrences) |
+| [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aditya2-code/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya2-code/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
+| [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya2-code/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/aditya2-code/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/aditya2-code/DSA/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
 | [1929-concatenation-of-array](https://github.com/aditya2-code/DSA/tree/master/1929-concatenation-of-array) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya2-code/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Memoization
