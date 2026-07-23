@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aditya2-code/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya2-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/aditya2-code/DSA/tree/master/0443-string-compression) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya2-code/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya2-code/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/aditya2-code/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya2-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/aditya2-code/DSA/tree/master/0443-string-compression) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya2-code/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
