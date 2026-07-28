@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya2-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya2-code/DSA/tree/master/3312-sorted-gcd-pair-queries) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya2-code/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aditya2-code/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aditya2-code/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya2-code/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/aditya2-code/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya2-code/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aditya2-code/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
