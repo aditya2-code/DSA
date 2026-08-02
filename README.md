@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/aditya2-code/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/aditya2-code/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aditya2-code/DSA/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2-code/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aditya2-code/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya2-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aditya2-code/DSA/tree/master/0131-palindrome-partitioning) |
 | [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aditya2-code/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya2-code/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -461,4 +464,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
