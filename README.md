@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/aditya2-code/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya2-code/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya2-code/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya2-code/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aditya2-code/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/aditya2-code/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya2-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya2-code/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya2-code/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aditya2-code/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/aditya2-code/DSA/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aditya2-code/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aditya2-code/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya2-code/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya2-code/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aditya2-code/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya2-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya2-code/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya2-code/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aditya2-code/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Backtracking
 |  |
