@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya2-code/DSA/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2-code/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/aditya2-code/DSA/tree/master/1288-remove-covered-intervals) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aditya2-code/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
 | [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aditya2-code/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -431,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/aditya2-code/DSA/tree/master/0724-find-pivot-index) |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya2-code/DSA/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aditya2-code/DSA/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Union-Find
@@ -480,5 +484,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/aditya2-code/DSA/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
