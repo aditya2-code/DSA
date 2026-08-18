@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya2-code/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/aditya2-code/DSA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya2-code/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1563-stone-game-v](https://github.com/aditya2-code/DSA/tree/master/1563-stone-game-v) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya2-code/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya2-code/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/aditya2-code/DSA/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya2-code/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aditya2-code/DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/aditya2-code/DSA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/aditya2-code/DSA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1510-stone-game-iv](https://github.com/aditya2-code/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aditya2-code/DSA/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya2-code/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya2-code/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/aditya2-code/DSA/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya2-code/DSA/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/aditya2-code/DSA/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
