@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/aditya2-code/DSA/tree/master/1563-stone-game-v) |
 | [1840-maximum-building-height](https://github.com/aditya2-code/DSA/tree/master/1840-maximum-building-height) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya2-code/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya2-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya2-code/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya2-code/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya2-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya2-code/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya2-code/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya2-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aditya2-code/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/aditya2-code/DSA/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -521,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/aditya2-code/DSA/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/aditya2-code/DSA/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/aditya2-code/DSA/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
