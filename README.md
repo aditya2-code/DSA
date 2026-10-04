@@ -547,4 +547,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya2-code/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
