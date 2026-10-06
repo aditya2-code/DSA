@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2-code/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya2-code/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/aditya2-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya2-code/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/aditya2-code/DSA/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/aditya2-code/DSA/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/aditya2-code/DSA/tree/master/1140-stone-game-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/aditya2-code/DSA/tree/master/3312-sorted-gcd-pair-queries) |
