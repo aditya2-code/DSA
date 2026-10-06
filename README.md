@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aditya2-code/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/aditya2-code/DSA/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya2-code/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aditya2-code/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya2-code/DSA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/aditya2-code/DSA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/aditya2-code/DSA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/aditya2-code/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/aditya2-code/DSA/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/aditya2-code/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aditya2-code/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aditya2-code/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aditya2-code/DSA/tree/master/0110-balanced-binary-tree) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya2-code/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/aditya2-code/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
+| [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aditya2-code/DSA/tree/master/0131-palindrome-partitioning) |
 ## Stack
 |  |
