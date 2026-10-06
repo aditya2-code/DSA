@@ -1,25 +1,34 @@
 class Solution {
     public int[][] merge(int[][] intervals) {
-        int n= intervals.length;
-        Arrays.sort(intervals,(a,b)->Integer.compare(a[0],b[0]));
-        List<int[]> result= new ArrayList<>();
-        result.add(intervals[0]);
-        for (int i = 1; i < n; i++) {
-          
-          int[] lastInterval = result.get(result.size() - 1);
-        
-          // Check if the current interval overlaps with the last merged interval
-          if (lastInterval[1] >= intervals[i][0] && lastInterval[1] <= intervals[i][1]) {
-              // Merge the intervals by updating the end time of the last merged interval
-              lastInterval[1] = intervals[i][1];
-          }
-          // If no overlap, add the current interval to the result
-          else if (lastInterval[1] < intervals[i][0]) {
-              result.add(intervals[i]);
-          }
-      }
-    
-      // Convert the result list to a 2D array and return
-      return result.toArray(new int[result.size()][]);
+        if(intervals.length <= 1){
+            return intervals;
+        }
+        List<int[]> intervalsList = new ArrayList<>(Arrays.asList(intervals));
+        boolean mergedSomething = true;
+
+        while(mergedSomething){
+            mergedSomething = false;
+            List<int[]> temp = new ArrayList<>();
+
+            while(!intervalsList.isEmpty()){
+                int []curr = intervalsList.remove(0);
+                boolean isMerged = false;
+                for(int i =0; i<intervalsList.size();i++){
+                    int[] other = intervalsList.get(i);
+
+                    if(Math.max(curr[0],other[0])<=Math.min(curr[1],other[1])){
+                        curr = new int[]{Math.min(curr[0],other[0]),Math.max(curr[1],other[1])};
+                        intervalsList.remove(i);
+                        isMerged = true;
+                        mergedSomething = true;
+                        break;
+                    }
+                }
+                temp.add(curr);
+            }
+            intervalsList = temp;
+
+        }
+        return intervalsList.toArray(new int[intervalsList.size()][]);
     }
 }
