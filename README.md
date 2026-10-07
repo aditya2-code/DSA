@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya2-code/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/aditya2-code/DSA/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aditya2-code/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/aditya2-code/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/aditya2-code/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/aditya2-code/DSA/tree/master/0037-sudoku-solver) |
+| [0054-spiral-matrix](https://github.com/aditya2-code/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aditya2-code/DSA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/aditya2-code/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/aditya2-code/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
