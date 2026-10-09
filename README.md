@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya2-code/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/aditya2-code/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/aditya2-code/DSA/tree/master/0605-can-place-flowers) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/aditya2-code/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya2-code/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya2-code/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
@@ -593,4 +596,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
