@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aditya2-code/DSA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/aditya2-code/DSA/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aditya2-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aditya2-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/aditya2-code/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/aditya2-code/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aditya2-code/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aditya2-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/aditya2-code/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/aditya2-code/DSA/tree/master/0704-binary-search) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/aditya2-code/DSA/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aditya2-code/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aditya2-code/DSA/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aditya2-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/aditya2-code/DSA/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/aditya2-code/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/aditya2-code/DSA/tree/master/0079-word-search) |
+| [0240-search-a-2d-matrix-ii](https://github.com/aditya2-code/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aditya2-code/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/aditya2-code/DSA/tree/master/2965-find-missing-and-repeated-values) |
