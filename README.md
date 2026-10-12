@@ -226,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/aditya2-code/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya2-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1927-sum-game](https://github.com/aditya2-code/DSA/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/aditya2-code/DSA/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aditya2-code/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya2-code/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya2-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/aditya2-code/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## String Matching
 |  |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/aditya2-code/DSA/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/aditya2-code/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/aditya2-code/DSA/tree/master/1260-shift-2d-grid) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aditya2-code/DSA/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/aditya2-code/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/aditya2-code/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/aditya2-code/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
