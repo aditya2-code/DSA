@@ -1,27 +1,11 @@
 class Solution {
     public String removeOccurrences(String s, String part) {
-        char[] input = s.toCharArray();
-        char[] target = part.toCharArray();
-        char[] resultStack = new char[input.length];
-        int stackSize = 0, targetLength = target.length;
-        char targetEndChar = target[targetLength - 1];
-
-        for (char currentChar : input) {
-            resultStack[stackSize++] = currentChar;
-
-            if (currentChar == targetEndChar && stackSize >= targetLength) {
-                int i = stackSize - 1, j = targetLength - 1;
-                
-                while (j >= 0 && resultStack[i] == target[j]) {
-                    i--;
-                    j--;
-                }
-
-                if (j < 0) {
-                    stackSize = i + 1;
-                }
-            }
+        int n = s.length();
+        int index = s.indexOf(part);
+        while(index!=-1){
+            s = s.substring(0,index)+s.substring(index+part.length());
+            index = s.indexOf(part);
         }
-        return new String(resultStack, 0, stackSize);
+        return s;
     }
 }
