@@ -1,34 +1,50 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
-        int n = heights.length;
-        int[] leftMin = new int[n];
-        leftMin[0] = -1;
-        Stack<Integer> leftStack = new Stack<>();
-        leftStack.push(0);
-        for(int i =1; i< n; i++){
-            while(!leftStack.isEmpty() && heights[leftStack.peek()]>=heights[i]){
-                leftStack.pop();
-            }
-            leftMin[i] = leftStack.isEmpty()? -1:leftStack.peek();
-            leftStack.push(i);
-        }
-        int[] rightMin = new int[n];
-        rightMin[n-1] = n;
-        Stack<Integer> rightStack = new Stack<>();
-        rightStack.push(n-1);
-        for(int i = n-2; i>=0;i--){
-            while(!rightStack.isEmpty() && heights[rightStack.peek()]>=heights[i]){
-                rightStack.pop();
-            }
-            rightMin[i] = rightStack.isEmpty()? n:rightStack.peek();
-            rightStack.push(i);
-        }
-        int maxArea = 0;
-        for(int i = 0; i< n; i++){
-            int width = (rightMin[i]-leftMin[i])-1;
-            int area = width*heights[i];
-            maxArea = Math.max(maxArea,area);
-        }
-        return maxArea;
-    }
+   public int largestRectangleArea(int[] heights) {
+       int n = heights.length;
+       Stack<Integer> indexStack = new Stack<>(); // Stack to store indices
+       int maxArea = Integer.MIN_VALUE;
+
+
+       // Iterate through the bars
+       for (int i = 0; i < n; i++) {
+           // Pop elements until we find a bar shorter than the current one
+           while (!indexStack.isEmpty() && heights[i] < heights[indexStack.peek()]) {
+               int topIndex = indexStack.pop();
+               int height = heights[topIndex];
+
+
+               // Calculate width for the popped element
+               int width = indexStack.isEmpty() ? i : (i - indexStack.peek() - 1);
+               int area = height * width;
+
+
+               // Update maximum area
+               maxArea = Math.max(maxArea, area);
+           }
+
+
+           // Push current index to the stack
+           indexStack.push(i);
+       }
+
+
+       // Handle remaining bars in the stack
+       while (!indexStack.isEmpty()) {
+           int topIndex = indexStack.pop();
+           int height = heights[topIndex];
+
+
+           // Calculate width for the remaining elements
+           int width = indexStack.isEmpty() ? n : (n - indexStack.peek() - 1);
+           int area = height * width;
+
+
+           // Update maximum area
+           maxArea = Math.max(maxArea, area);
+       }
+
+
+       return maxArea;
+   }
 }
+
