@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/aditya2-code/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/aditya2-code/DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/aditya2-code/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/aditya2-code/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/aditya2-code/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/aditya2-code/DSA/tree/master/1768-merge-strings-alternately) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aditya2-code/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2-code/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya2-code/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/aditya2-code/DSA/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1207-unique-number-of-occurrences](https://github.com/aditya2-code/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/aditya2-code/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/aditya2-code/DSA/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2-code/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/aditya2-code/DSA/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/aditya2-code/DSA/tree/master/0567-permutation-in-string) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya2-code/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -470,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/aditya2-code/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/aditya2-code/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2-code/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/aditya2-code/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/aditya2-code/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/aditya2-code/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya2-code/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
