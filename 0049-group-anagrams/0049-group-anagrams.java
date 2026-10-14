@@ -1,9 +1,9 @@
 class Solution {
     public String hashing(String s){
         StringBuilder hash = new StringBuilder();
-        int[] freq = new int[26];
-        for(int i = 0; i < s.length(); i++){
-            freq[s.charAt(i)-'a']++;
+        int [] freq = new int[26];
+        for(char ch: s.toCharArray()){
+            freq[ch-'a']++;
         }
         for(int i =0; i< 26; i++){
             if(freq[i]!=0){
@@ -15,11 +15,11 @@ class Solution {
     }
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> res = new ArrayList<>();
-        HashMap<String,List<String>> mp  = new HashMap<>();
-        for(int i =0; i< strs.length; i++){
+        HashMap<String,List<String>> mp = new HashMap<>();
+        for(int i = 0; i< strs.length; i++){
             String key = hashing(strs[i]);
             if(!mp.containsKey(key)){
-                mp.put(key,new ArrayList<>());
+                mp.put(key, new ArrayList<>());
             }
             mp.get(key).add(strs[i]);
         }
