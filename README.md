@@ -648,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/aditya2-code/DSA/tree/master/0493-reverse-pairs) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/aditya2-code/DSA/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
