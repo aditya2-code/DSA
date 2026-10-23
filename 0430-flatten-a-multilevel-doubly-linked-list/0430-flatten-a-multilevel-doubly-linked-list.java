@@ -10,14 +10,14 @@ class Node {
 
 class Solution {
     public Node flatten(Node head) {
-        if(head== null){
+        if(head == null){
             return head;
         }
         Node curr = head;
         while(curr!=null){
-            if(curr.child != null){
+            if(curr.child!=null){
                 Node next = curr.next;
-                curr.next = flatten(curr.child);
+                curr.next = (flatten(curr.child));
                 curr.next.prev = curr;
                 curr.child = null;
                 while(curr.next!=null){
@@ -29,8 +29,6 @@ class Solution {
                 }
             }
             curr = curr.next;
-            
-
         }
         return head;
     }
