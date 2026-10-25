@@ -640,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/aditya2-code/DSA/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/aditya2-code/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Monotonic Queue
