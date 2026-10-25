@@ -15,7 +15,6 @@ class MyQueue {
         while(!s2.isEmpty()){
             s1.push(s2.pop());
         }
-        
     }
     
     public int pop() {
@@ -23,7 +22,6 @@ class MyQueue {
             return -1;
         }
         return s1.pop();
-        
     }
     
     public int peek() {
@@ -31,12 +29,10 @@ class MyQueue {
             return -1;
         }
         return s1.peek();
-        
     }
     
     public boolean empty() {
         return s1.isEmpty();
-        
     }
 }
 
