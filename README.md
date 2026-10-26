@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/aditya2-code/DSA/tree/master/0334-increasing-triplet-subsequence) |
 | [0486-predict-the-winner](https://github.com/aditya2-code/DSA/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/aditya2-code/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/aditya2-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/aditya2-code/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya2-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/aditya2-code/DSA/tree/master/0605-can-place-flowers) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/aditya2-code/DSA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/aditya2-code/DSA/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya2-code/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/aditya2-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/aditya2-code/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/aditya2-code/DSA/tree/master/0567-permutation-in-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/aditya2-code/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/aditya2-code/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aditya2-code/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/aditya2-code/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/aditya2-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/aditya2-code/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aditya2-code/DSA/tree/master/0739-daily-temperatures) |
 | [1021-remove-outermost-parentheses](https://github.com/aditya2-code/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aditya2-code/DSA/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aditya2-code/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+| [0496-next-greater-element-i](https://github.com/aditya2-code/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/aditya2-code/DSA/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya2-code/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/aditya2-code/DSA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
